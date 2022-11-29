@@ -1,6 +1,6 @@
 #  Sistema de Prestadores de serviços
 
-- Cadastros de prestação de serviços, editar, excluir;
+- Cadastros de prestação de serviços, CRUD;
 - Upload de foto.
 - Login de Usuário;
 - Cadastro de Usuário.
